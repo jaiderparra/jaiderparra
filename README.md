@@ -64,11 +64,14 @@ Plataforma de radicación de correspondencia (entrada, salida e interna) para en
 ## 📈 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaiderparra&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiderparra&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiderparra&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jaiderparra&theme=tokyonight&hide_border=true&locale=es" height="170" />
 </p>
 
 ## 🐍 Mi actividad
